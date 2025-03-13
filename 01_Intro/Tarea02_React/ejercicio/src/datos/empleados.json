@@ -1,50 +1,58 @@
 [
   {
+    "id": 1,
     "nombre": "Juan",
     "apellido": "Perez",
     "cargo": "Administrador",
-    "estado": "Inactivo"
+    "activo": false
   },
   {
+    "id": 2,
     "nombre": "Maria",
     "apellido": "Lopez",
     "cargo": "Gerente",
-    "estado": "Inactivo"
+    "activo": false
   },
   {
+    "id": 3,
     "nombre": "Carlos",
     "apellido": "Gomez",
     "cargo": "Desarrollador",
-    "estado": "Activo"
+    "activo": true
   },
   {
+    "id": 4,
     "nombre": "Ana",
     "apellido": "Martinez",
     "cargo": "Diseñadora",
-    "estado": "Activo"
+    "activo": true
   },
   {
+    "id": 5,
     "nombre": "Luis",
     "apellido": "Rodriguez",
     "cargo": "Soporte Técnico",
-    "estado": "Inactivo"
+    "activo": false
   },
   {
+    "id": 6,
     "nombre": "Elena",
     "apellido": "Fernandez",
     "cargo": "Marketing",
-    "estado": "Inactivo"
+    "activo": false
   },
   {
+    "id": 7,
     "nombre": "Roberto",
     "apellido": "Sanchez",
     "cargo": "Contador",
-    "estado": "Inactivo"
+    "activo": false
   },
   {
+    "id": 8,
     "nombre": "Gabriela",
     "apellido": "Diaz",
     "cargo": "Recursos Humanos",
-    "estado": "Inactivo"
+    "activo": false
   }
 ]
