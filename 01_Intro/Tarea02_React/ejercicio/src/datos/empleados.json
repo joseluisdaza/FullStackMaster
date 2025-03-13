@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "cargo": "Administrador",
+    "estado": "Inactivo"
+  },
+  {
+    "nombre": "Maria",
+    "apellido": "Lopez",
+    "cargo": "Gerente",
+    "estado": "Inactivo"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Gomez",
+    "cargo": "Desarrollador",
+    "estado": "Activo"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Martinez",
+    "cargo": "Diseñadora",
+    "estado": "Activo"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Rodriguez",
+    "cargo": "Soporte Técnico",
+    "estado": "Inactivo"
+  },
+  {
+    "nombre": "Elena",
+    "apellido": "Fernandez",
+    "cargo": "Marketing",
+    "estado": "Inactivo"
+  },
+  {
+    "nombre": "Roberto",
+    "apellido": "Sanchez",
+    "cargo": "Contador",
+    "estado": "Inactivo"
+  },
+  {
+    "nombre": "Gabriela",
+    "apellido": "Diaz",
+    "cargo": "Recursos Humanos",
+    "estado": "Inactivo"
+  }
+]
